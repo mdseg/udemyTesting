@@ -1,0 +1,11 @@
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\bin\Debug\net6.0\LibreriaVaxi.deps.json
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\bin\Debug\net6.0\LibreriaVaxi.dll
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\bin\Debug\net6.0\ref\LibreriaVaxi.dll
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\bin\Debug\net6.0\LibreriaVaxi.pdb
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.AssemblyInfoInputs.cache
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.AssemblyInfo.cs
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.csproj.CoreCompileInputs.cache
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.dll
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\ref\LibreriaVaxi.dll
+C:\Users\mseghesio\Desktop\Cursos\TestUnits\Vaxi\LibreriaVaxi\obj\Debug\net6.0\LibreriaVaxi.pdb
